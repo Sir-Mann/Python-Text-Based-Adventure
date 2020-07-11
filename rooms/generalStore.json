@@ -1,0 +1,6 @@
+{"name":"General Store",
+"description":"You have entered the general store. This place has many wonderful things to buy.",
+"neighbors": {"n":"steps",
+             "e":"fpr"},
+"itemlist": [["book","True","A book! Bookstore.... Book... Ah. Yes, I see.","use"]]
+}

@@ -1,0 +1,9 @@
+{"name":"Steps",
+"description":"You have entered the steps at the Wilds. These cause many people to get in shape!",
+"neighbors": {"n":"ballfield",
+              "e":"tunnel",
+              "ne":"activityCenter",
+              "s":"generalStore",
+              "se":"fpr"},
+"itemlist": [["step","False","No. I do not want to see it.", "none"]]
+}

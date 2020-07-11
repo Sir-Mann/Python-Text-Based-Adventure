@@ -25,6 +25,7 @@ class Game(cmd.Cmd):
 
     def take(self, item):
         """do pickup stuff"""
+        """ THIS CODE DOES NOT WORK!  ...  currently"""
         item = self.loc._items(item)
         if item is None:
             print("There is nothing to take.")

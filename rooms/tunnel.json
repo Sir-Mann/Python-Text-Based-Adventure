@@ -1,0 +1,12 @@
+{"name":"Tunnel",
+"description":"You have entered a deep dark tunnel. No one should ever be caught here.",
+"neighbors": {"w":"steps",
+              "n":"activityCenter",
+              "s":"fpr",
+              "e":"health",
+              "nw":"ballfield",
+              "sw":"generalStore",
+              "se":"coffeeShop",
+              "ne":"soccerArena"},
+"itemlist": [["fork","True","FORK! FORK! FORK! FORK! FORK!!! oh... sorry.", "use"]]
+}

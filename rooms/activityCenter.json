@@ -1,0 +1,9 @@
+{"name":"Activity Center",
+"description":"You have entered the Activity Center where all activities of various kinds take place. Yet, there seems to be something amiss.",
+"neighbors": {"w":"ballfield",
+              "s":"tunnel",
+              "e":"soccerArena",
+              "sw":"steps",
+              "se":"health"},
+"itemlist": [["basketball","True","A basketball. Lets shoot some hoops!","use"]]
+}

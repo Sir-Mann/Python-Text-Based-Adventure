@@ -1,7 +1,0 @@
-{"name":"Ballfield",
-"description":"You are now standing inside the ballfield at the Wilds. Many wonderful games are played on this field.",
-"neighbors": {"s":"steps",
-              "e":"activityCenter",
-              "se":"tunnel"},
-"itemlist": [["ball","True","A ball.... Yes, you find those in a ballfield","use"]]
-}

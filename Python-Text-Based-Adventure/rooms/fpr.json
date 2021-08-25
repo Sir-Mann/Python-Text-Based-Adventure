@@ -1,9 +1,0 @@
-{"name":"Fireplace Room",
-"description":"You have entered the Fireplace Room. This place is where many of the services were once held at the Wilds. Many still are.",
-"neighbors": {"w":"generalStore",
-              "e":"coffeeShop",
-              "n":"tunnel",
-              "nw":"steps",
-              "ne":"health"},
-"itemlist": [["coffee","True","Would have expected to find smores. But ok!","use"]]
-}

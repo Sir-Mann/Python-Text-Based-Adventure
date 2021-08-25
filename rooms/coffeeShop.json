@@ -1,8 +1,0 @@
-{"name":"Consession Of Fantastic Fritery Energetic Edibles",
-"description":"You have entered the C.O.F.F.E.E. Shop.",
-"neighbors": {"w":"fpr",
-             "nw":"tunnel",
-             "w":"fpr",
-             "n":"health"},
-"itemlist": [["coffee","True","Only one thing to do. Drink it!","use"]]
-}

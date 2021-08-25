@@ -1,9 +1,0 @@
-{"name":"Health Service Building",
-"description":"You have entered the Health Service Building at the Wilds. This place houses all people and products that keep you healthy.",
-"neighbors": {"w":"tunnel",
-              "n":"soccerArena",
-              "s":"coffeeShop",
-              "nw":"activityCenter",
-              "sw":"fpr"},
-"itemlist": [["needle","True","A needle... HEY! DO NOT STICK ME!!!!","use"]]
-}

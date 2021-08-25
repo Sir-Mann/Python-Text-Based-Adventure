@@ -1,9 +1,0 @@
-{"name":"Soccer Arena",
-"description":"You have entered a fun outside soccer arena. Feel free to kick the ball into the wall!",
-"neighbors": {"w":"activityCenter",
-              "s":"health",
-              "sw":"tunnel"},
-"itemlist": [["soccer ball","True","A soccer ball! Lez kick it!", "use"],
-             ["glove","True","That golie better get his glove!", "use"]]
-
-}

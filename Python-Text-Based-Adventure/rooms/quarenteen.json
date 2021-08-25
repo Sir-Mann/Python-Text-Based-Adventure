@@ -1,0 +1,6 @@
+{"name":"Quarenteen Room",
+"description":"You're standing in a single motel room alone. All is silent. You see a book, a computer and many snacks.",
+"neighbors": {"n":"tunnel"},
+"itemlist": [["computer","False","Windows 98!? Boy, someone needs to update this thing.", "use"],
+            ["key","False","old key", "use"]]
+}
